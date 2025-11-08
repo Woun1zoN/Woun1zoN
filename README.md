@@ -1,7 +1,5 @@
 <h1 align="center">Wᴏᴜɴ†ᴢᴏN メ</h1>
 
----
-
 ### ⚡ **About Me**  
 - 🏳 I from **Russia, Belgorod**.
 - ✍ Learning **Golang**.
