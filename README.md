@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436772754744414228/0_dvVMEPAdpKHnrTs_.png?ex=6910d266&is=690f80e6&hm=31482ca6e4d7331cabbad21b595ec42a21108e48295cbbe877ef4b413487b784&=&format=webp&quality=lossless" alt="Gopher" width="40" height="40"/>
   Wᴏᴜɴ†ᴢᴏN メ
 </h1>
 
 ### ⚡ **About Me**  
 - 🏳 From **Russia, Belgorod**.
-- ✍ Learning **Golang**.
+- 🎓 Learning **Golang**.
 - 🎯 I want break out of **routine**, not live like everyone else.
 
 ---
@@ -41,3 +40,5 @@
 </div>
 
 ---
+
+![ъ](https://media.discordapp.net/attachments/1351546435216211988/1436774604222763181/image.png?ex=6910d41f&is=690f829f&hm=861e3b8e17d990f2c9e5b247e02432c6ca242d75a3e50aa533c571757602463f&=&format=webp&quality=lossless)
