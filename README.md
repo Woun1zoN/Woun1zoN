@@ -17,22 +17,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woun1zoN&layout=compact&theme=dark)
-  
-</div>
-
----
-
 ### 🛠️ **Languages & Tools**  
 <p align="center">
   <img src="https://svgicons.com/api/ogimage/?id=190993&n=golang" alt="Go" width="40" height="40"/>
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436716264541130840/Git.png?ex=69109dca&is=690f4c4a&hm=1733aa80b91bd671b18bbf85f7f1407d7dd4dec5f698efb021bae22be4849b32&=&format=webp&quality=lossless" alt="Git" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436802962318954536/PostgresqlDark.png?ex=6910ee88&is=690f9d08&hm=16bfe5e8f3cd2f906747c73502ac4e48827123e357f34cb296457ca723ba16ab&=&format=webp&quality=lossless" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://media.discordapp.net/attachments/1351546435216211988/1436717018287046676/Docker.png?ex=69109e7e&is=690f4cfe&hm=08fd8f3a08f83430a04cb2901f4945611e197434897b1b2ef1b08ecfd273c067&=&format=webp&quality=lossless" alt="Docker" width="40" height="40"/>
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436716993343525057/PythonDark.png?ex=69109e78&is=690f4cf8&hm=4c4dc6d19cfb40151c76a3d744da15accf339ffeabaa6fd9f0f6c5861887a9c2&=&format=webp&quality=lossless" alt="Python" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436716264541130840/Git.png?ex=69109dca&is=690f4c4a&hm=1733aa80b91bd671b18bbf85f7f1407d7dd4dec5f698efb021bae22be4849b32&=&format=webp&quality=lossless" alt="Git" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436803262593368124/RedisDark.png?ex=6910eed0&is=690f9d50&hm=9cf8c0ce1cf635f4584058e1d74841469e0f93b590c47b7a98b518a87b0912a3&=&format=webp&quality=lossless" alt="Redis" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436803518194254005/GraphqlDark.png?ex=6910ef0d&is=690f9d8d&hm=c48b68e34923bdf238ebf547ea3e6396c343dd20ec41043a51ab6e94e34ce300&=&format=webp&quality=lossless" alt="GraphQL" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -46,4 +38,12 @@
 
 ---
 
-![ъ](https://media.discordapp.net/attachments/1351546435216211988/1436774604222763181/image.png?ex=6910d41f&is=690f829f&hm=861e3b8e17d990f2c9e5b247e02432c6ca242d75a3e50aa533c571757602463f&=&format=webp&quality=lossless)
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woun1zoN&layout=compact&theme=dark)
+  
+</div>
+
+---
