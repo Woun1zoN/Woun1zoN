@@ -5,10 +5,6 @@
 - ✍ Learning **Golang**.
 - 🎯 I want break out of **routine**, not live like everyone else.
 
-<p align="left">
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436748113250619616/png-klev-club-p-razdelitel-png-13.png?ex=6910bb73&is=690f69f3&hm=633aafaed6c05e3e9579632795d46645c7285df55ceb6867e00065601f71a8f8&=&format=webp&quality=lossless" alt="Gif" width="400"/>
-</p>
-
 ---
 
 ### 🛠️ **Languages & Tools**  
