@@ -6,7 +6,7 @@
 - 🎯 I want break out of **routine**, not live like everyone else.
 
 <p align="left">
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436719718886150264/image.png?ex=6910a101&is=690f4f81&hm=16a33e412c53a45ec1fbe2a69dfac778b54c2050c1fa18790c3b4d65fb93d0fc&=&format=webp&quality=lossless" alt="Gif" width="400"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436748113250619616/png-klev-club-p-razdelitel-png-13.png?ex=6910bb73&is=690f69f3&hm=633aafaed6c05e3e9579632795d46645c7285df55ceb6867e00065601f71a8f8&=&format=webp&quality=lossless" alt="Gif" width="400"/>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436719718886150264/image.png?ex=6910a101&is=690f4f81&hm=16a33e412c53a45ec1fbe2a69dfac778b54c2050c1fa18790c3b4d65fb93d0fc&=&format=webp&quality=lossless" alt="Gif" width="400"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436748113250619616/png-klev-club-p-razdelitel-png-13.png?ex=6910bb73&is=690f69f3&hm=633aafaed6c05e3e9579632795d46645c7285df55ceb6867e00065601f71a8f8&=&format=webp&quality=lossless" alt="Gif" width="400"/>
 </p>
 
 <p align="center">
