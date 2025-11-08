@@ -1,23 +1,31 @@
-<h1 align="center">Wᴏᴜɴ†ᴢᴏN メ die young</h1>
+<h1 align="center">Wᴏᴜɴ†ᴢᴏN メ</h1>
 
 ### ⚡ **About Me**  
 - 🏳 I from **Russia, Belgorod**.
 - ✍ Learning **Golang**.
 - 🎯 I want break out of **routine**, not live like everyone else.
 
+<p align="left">
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436719718886150264/image.png?ex=6910a101&is=690f4f81&hm=16a33e412c53a45ec1fbe2a69dfac778b54c2050c1fa18790c3b4d65fb93d0fc&=&format=webp&quality=lossless" alt="Gif" width="400"/>
+</p>
+
 ---
 
 ### 🛠️ **Languages & Tools**  
 <p align="center">
   <img src="https://svgicons.com/api/ogimage/?id=190993&n=golang" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_light_json_icon_130455.png" alt="JSON" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436716264541130840/Git.png?ex=69109dca&is=690f4c4a&hm=1733aa80b91bd671b18bbf85f7f1407d7dd4dec5f698efb021bae22be4849b32&=&format=webp&quality=lossless" alt="Git" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436717018287046676/Docker.png?ex=69109e7e&is=690f4cfe&hm=08fd8f3a08f83430a04cb2901f4945611e197434897b1b2ef1b08ecfd273c067&=&format=webp&quality=lossless" alt="Docker" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436716993343525057/PythonDark.png?ex=69109e78&is=690f4cf8&hm=4c4dc6d19cfb40151c76a3d744da15accf339ffeabaa6fd9f0f6c5861887a9c2&=&format=webp&quality=lossless" alt="Python" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436719718886150264/image.png?ex=6910a101&is=690f4f81&hm=16a33e412c53a45ec1fbe2a69dfac778b54c2050c1fa18790c3b4d65fb93d0fc&=&format=webp&quality=lossless" alt="Gif" width="400"/>
 </p>
 
 <p align="center">
   <img src="https://defkey.com/images/program/goland-windows-2022-11-16_05-10-14-icon-resized.webp" alt="GoLand" width="40" height="40"/>
-  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source" alt="Git" width="40" height="40"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436717777372315789/VscodeDark.png?ex=69109f33&is=690f4db3&hm=f19eacbe298a831f3af2b57f217a60bf4537b71fe466d4fe8e485373780075aa&=&format=webp&quality=lossless" alt="VSCode" width="40" height="40"/>
 </p>
 
 ---
@@ -34,5 +42,3 @@
 </div>
 
 ---
-
-![Faded Memories](https://media.discordapp.net/attachments/1351546435216211988/1436639720309260408/image.png?ex=69105680&is=690f0500&hm=368f5a654409ee5ff31a939b11c58a2bcf455e983c7399bf8c8fe0300d0b526a&=&format=webp&quality=lossless)
