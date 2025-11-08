@@ -35,4 +35,4 @@
 
 ---
 
-![Faded Memories](https://cdn.discordapp.com/attachments/1351546435216211988/1436638805095354399/minimalist-wallpapers-part-3-enjoy-v0-ji4oavksctqe1.png?ex=691055a6&is=690f0426&hm=2db4ea5c72d80e73314b9499ea4dc1b46eca395e0946943acab3fc07ff5c6b78&)
+![Faded Memories](https://media.discordapp.net/attachments/1351546435216211988/1436639720309260408/image.png?ex=69105680&is=690f0500&hm=368f5a654409ee5ff31a939b11c58a2bcf455e983c7399bf8c8fe0300d0b526a&=&format=webp&quality=lossless)
