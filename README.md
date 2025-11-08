@@ -1,7 +1,7 @@
 <h1 align="center">Wᴏᴜɴ†ᴢᴏN メ</h1>
 
 ### ⚡ **About Me**  
-- 🏳 I from **Russia, Belgorod**.
+- 🏳 From **Russia, Belgorod**.
 - ✍ Learning **Golang**.
 - 🎯 I want break out of **routine**, not live like everyone else.
 
