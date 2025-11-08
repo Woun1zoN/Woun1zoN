@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436748113250619616/png-klev-club-p-razdelitel-png-13.png?ex=6910bb73&is=690f69f3&hm=633aafaed6c05e3e9579632795d46645c7285df55ceb6867e00065601f71a8f8&=&format=webp&quality=lossless" alt="Gif" width="400"/>
+  <img src="https://cdn.discordapp.com/attachments/1351546435216211988/1436750106387812363/image.png?ex=6910bd4e&is=690f6bce&hm=f4072695b1a3c196150b526ca763a83001782d33a354f804c31ff62d0c584dd3&" alt="Gif" width="400"/>
 </p>
 
 <p align="center">
