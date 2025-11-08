@@ -1,4 +1,4 @@
-<h1 align="center">Wᴏᴜɴ†ᴢᴏN メ</h1>
+<h1 align="center">Wᴏᴜɴ†ᴢᴏN メ die young</h1>
 
 ### ⚡ **About Me**  
 - 🏳 I from **Russia, Belgorod**.
