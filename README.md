@@ -7,7 +7,7 @@
 - 🎓 Learning **Golang**.
 - 🎯 Goal: Become a Backend Go Developer
 
-### 🌐 **Contacts**
+### 🌐 **Links**
 <div align="left">
 
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1351287706164006982)
