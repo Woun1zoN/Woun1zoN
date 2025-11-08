@@ -33,7 +33,9 @@
 </p>
 
 <p align="center">
-  <img src="https://defkey.com/images/program/goland-windows-2022-11-16_05-10-14-icon-resized.webp" alt="GoLand" width="50" height="50"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436805961208696872/WindowsDark.png?ex=6910f153&is=690f9fd3&hm=ee96723165541c44eaf7d8a8e3f6639c389e02d2ccd367a8db3f6a716e9431b8&=&format=webp&quality=lossless" alt="Windows" width="50" height="50"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436806566161416292/Goland.png?ex=6910f1e3&is=690fa063&hm=7ff7e0c4a3b381981a25b0f210b8f1999637f2c673383b40258967a27a58bff8&=&format=webp&quality=lossless" alt="GoLand" width="50" height="50"/>
+  <img src="https://media.discordapp.net/attachments/1351546435216211988/1436807043125088276/ObsidianDark.png?ex=6910f255&is=690fa0d5&hm=07f6a281c4e0d96428951acd878bf7511ae40c407e128a58fbc62c9f51b47e1e&=&format=webp&quality=lossless" alt="Obsidian" width="50" height="50"/>
   <img src="https://media.discordapp.net/attachments/1351546435216211988/1436717777372315789/VscodeDark.png?ex=69109f33&is=690f4db3&hm=f19eacbe298a831f3af2b57f217a60bf4537b71fe466d4fe8e485373780075aa&=&format=webp&quality=lossless" alt="VSCode" width="50" height="50"/>
 </p>
 
