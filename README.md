@@ -5,9 +5,31 @@
 ### ⚡ **About Me**  
 - 🏳 From **Russia, Belgorod**.
 - 🎓 Learning **Golang**.
-- 🎯 I want break out of **routine**, not live like everyone else.
+- 🎯 Goal: Become a Backend Go Developer
+
+### 🌐 **Contacts**
+<div align="left">
+
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1351287706164006982)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@WountzoN)
+ 
+</div>
 
 ---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woun1zoN&layout=compact&theme=dark)
+  
+</div>
+
+<div align="center">
+
+  ![WᴏᴜɴtᴢᴏN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woun1zoN&show_icons=true&theme=dark)
+  
+</div>
 
 ### 🛠️ **Languages & Tools**  
 <p align="center">
@@ -25,19 +47,6 @@
   <img src="https://defkey.com/images/program/goland-windows-2022-11-16_05-10-14-icon-resized.webp" alt="GoLand" width="40" height="40"/>
   <img src="https://media.discordapp.net/attachments/1351546435216211988/1436717777372315789/VscodeDark.png?ex=69109f33&is=690f4db3&hm=f19eacbe298a831f3af2b57f217a60bf4537b71fe466d4fe8e485373780075aa&=&format=webp&quality=lossless" alt="VSCode" width="40" height="40"/>
 </p>
-
----
-
-### 🌐 **Contacts**
-
-
-  
-<div align="center">
-
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1351287706164006982)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@WountzoN)
- 
-</div>
 
 ---
 
