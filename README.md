@@ -12,7 +12,7 @@
 
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1351287706164006982)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@WountzoN)
-  [![Steam](https://img.shields.io/badge/Steam-171B21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/wountzon/)
+  [![Steam](https://img.shields.io/badge/Steam-171d25?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/wountzon/)
  
 </div>
 
