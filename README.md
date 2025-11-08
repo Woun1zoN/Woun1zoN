@@ -4,7 +4,6 @@
 - 🏳 I from **Russia, Belgorod**.
 - ✍ Learning **Golang**.
 - 🎯 I want break out of **routine**, not live like everyone else.
-- ⚡ Shit, **Stay Hard**.
 
 ---
 
