@@ -25,11 +25,7 @@
   
 </div>
 
-<div align="center">
-
-  ![WᴏᴜɴtᴢᴏN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woun1zoN&show_icons=true&theme=dark)
-  
-</div>
+---
 
 ### 🛠️ **Languages & Tools**  
 <p align="center">
