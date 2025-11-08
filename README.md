@@ -33,3 +33,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@WountzoN)
  
 </div>
+
+---
+
+![Faded Memories](https://cdn.discordapp.com/attachments/1351546435216211988/1436638805095354399/minimalist-wallpapers-part-3-enjoy-v0-ji4oavksctqe1.png?ex=691055a6&is=690f0426&hm=2db4ea5c72d80e73314b9499ea4dc1b46eca395e0946943acab3fc07ff5c6b78&)
