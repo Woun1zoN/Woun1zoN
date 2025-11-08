@@ -1,5 +1,5 @@
 <h1 align="center">
-  Wᴏᴜɴ†ᴢᴏN メ
+  About Wᴏᴜɴ†ᴢᴏN メ
 </h1>
 
 ### ⚡ **About Me**  
