@@ -9,10 +9,10 @@
 ## 💠 Featured Projects
 
 ### [Identity Service](https://github.com/Woun1zoN/go-identity-service)
-A **pet project** designed to explore and practice **JWT authentication**, **security concepts**, and **clean architecture**
+A backend-focused project exploring **JWT authentication**, **security principles**, and **clean architecture** in practice.
 
 ### [Simple Notes RESTful API](https://github.com/Woun1zoN/go-notes-api)
-A **learning project** focused on practicing **HTTP handling**, **middleware**, and working with **PostgreSQL**.
+A RESTful API project focused on **HTTP handling**, **middleware** design, and **PostgreSQL** integration.
 
 ---
 
