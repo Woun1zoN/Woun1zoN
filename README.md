@@ -1,53 +1,43 @@
-<h1 align="center">
-  About Wᴏᴜɴ†ᴢᴏN メ
-</h1>
-
-### ⚡ **About Me**  
-- 🏳 From **Russia, Belgorod**.
-- 🎓 Learning **Golang**.
-- 🎯 Goal: Become a Backend Go Developer
-
-### 🌐 **Links**
-<div align="left">
-
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1351287706164006982)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@WountzoN)
-  [![Steam](https://img.shields.io/badge/Steam-171d25?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/wountzon/)
- 
-</div>
-
----
-
-### 🛠️ **Languages & Tools**  
-<p align="center">
-  <img src="https://svgicons.com/api/ogimage/?id=190993&n=golang" alt="Go" width="50" height="50"/>
-  <img src="https://i.postimg.cc/yd5555Y8/Postgresql-Dark.png" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://i.postimg.cc/h4k61H55/Docker.png" alt="Docker" width="50" height="50"/>
-  <img src="https://i.postimg.cc/qv0F920c/Git.png" alt="Git" width="50" height="50"/>
-  <img src="https://i.postimg.cc/bJGVQTHy/Python-Dark.png" alt="Python" width="50" height="50"/>
-  <img src="https://i.postimg.cc/C5kv2xQ9/Redis-Dark.png" alt="Redis" width="50" height="50"/>
-  <img src="https://i.postimg.cc/yYhQXWRw/Graphql-Dark.png" alt="GraphQL" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/3wNtTBqT/Snimok-ekrana-2025-11-14-081549.png" alt="ХуйняЭта" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/Hng0V465/Windows-Dark.png" alt="Windows" width="50" height="50"/>
-  <img src="https://i.postimg.cc/yY7XKjgk/Goland.png" alt="GoLand" width="50" height="50"/>
-  <img src="https://i.postimg.cc/26phK7RF/Obsidian-Dark.png" alt="Obsidian" width="50" height="50"/>
-  <img src="https://i.postimg.cc/C5SDFMKt/Vscode-Dark.png" alt="VSCode" width="50" height="50"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woun1zoN&layout=compact&theme=dark)
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=54&letterSpacing=3px&duration=1000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&height=100&lines=Woun†zoNメ" />
 </div>
 
+<p align="center">
+  <b>Golang Backend Deverloper</b>  
+</p>
+
+## 💠 Featured Projects
+
+### [Identity Service](https://github.com/Woun1zoN/go-identity-service)
+A **pet project** designed to explore and practice **JWT authentication**, **security concepts**, and **clean architecture**
+
+### [Simple Notes RESTful API](https://github.com/Woun1zoN/go-notes-api)
+A **learning project** focused on practicing **HTTP handling**, **middleware**, and working with **PostgreSQL**.
+
 ---
+
+## 🛠️ **TechStack**
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,redis,postman"/>
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=github,vscode"/>
+</p>
+
+---
+
+## 🌐 Contact
+
+<p>
+  <a href="https://discord.com/users/1351287706164006982">
+    <img src="https://img.shields.io/badge/Discord-WountzoN-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/WountzoN">
+    <img src="https://img.shields.io/badge/Telegran-WountzoN-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Woun1zoN">
+    <img src="https://img.shields.io/badge/GitHub-WountzoN-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <img align="right" src="https://komarev.com/ghpvc/?username=Woun1zoN&style=for-the-badge&color=181717&label=Profile+Views&abbreviated=false" />
+</p>
